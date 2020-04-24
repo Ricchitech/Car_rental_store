@@ -9,6 +9,18 @@ Web Browser: All standard web browsers such as Internet Explorer, Mozilla Firefo
 
 Application Tool:  WAMP Server / LAMP Server / MAMP Server / XAMPP Server
 
+Hardware requirements
+
+Processor: Intel Pentium or More 
+Ram: 512 MB Ram 
+ Hard Disk: PC with 20GB
+ 
+Software requirements: 
+
+• Database Server: MY SQL. 
+• User Interface: HTML, CSS and JavaScript. 
+• Backend: PHP.
+
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
